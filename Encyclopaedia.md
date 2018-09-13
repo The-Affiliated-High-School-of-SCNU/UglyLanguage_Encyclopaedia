@@ -10,6 +10,10 @@
 
 [Brainfuck](https://zhuanlan.zhihu.com/p/44091850)
 
+    H
+
+[Hexagony](https://zhuanlan.zhihu.com/p/44393603)
+
     M
 
 [MarioLANG](https://zhuanlan.zhihu.com/p/44099289)
@@ -17,6 +21,10 @@
     O
 
 [Ook](https://zhuanlan.zhihu.com/p/44097403)
+
+    P
+
+[Polynomial](https://zhuanlan.zhihu.com/p/44483065)
 
     R
 
